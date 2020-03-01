@@ -1,0 +1,11 @@
+C:\School\Visual Basic\Football Project\bin\Debug\Football Project.exe.config
+C:\School\Visual Basic\Football Project\bin\Debug\Football Project.exe
+C:\School\Visual Basic\Football Project\bin\Debug\Football Project.pdb
+C:\School\Visual Basic\Football Project\bin\Debug\Football Project.xml
+C:\School\Visual Basic\Football Project\obj\Debug\Football Project.vbprojAssemblyReference.cache
+C:\School\Visual Basic\Football Project\obj\Debug\Football_Project.frmOne.resources
+C:\School\Visual Basic\Football Project\obj\Debug\Football_Project.Resources.resources
+C:\School\Visual Basic\Football Project\obj\Debug\Football Project.vbproj.GenerateResource.cache
+C:\School\Visual Basic\Football Project\obj\Debug\Football Project.exe
+C:\School\Visual Basic\Football Project\obj\Debug\Football Project.xml
+C:\School\Visual Basic\Football Project\obj\Debug\Football Project.pdb

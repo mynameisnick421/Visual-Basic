@@ -1,0 +1,11 @@
+C:\School\Visual Basic\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+C:\School\Visual Basic\MyFirstApp\bin\Debug\MyFirstApp.exe
+C:\School\Visual Basic\MyFirstApp\bin\Debug\MyFirstApp.pdb
+C:\School\Visual Basic\MyFirstApp\bin\Debug\MyFirstApp.xml
+C:\School\Visual Basic\MyFirstApp\obj\Debug\MyFirstApp.vbprojAssemblyReference.cache
+C:\School\Visual Basic\MyFirstApp\obj\Debug\MyFirstApp.frmFirst.resources
+C:\School\Visual Basic\MyFirstApp\obj\Debug\MyFirstApp.Resources.resources
+C:\School\Visual Basic\MyFirstApp\obj\Debug\MyFirstApp.vbproj.GenerateResource.cache
+C:\School\Visual Basic\MyFirstApp\obj\Debug\MyFirstApp.exe
+C:\School\Visual Basic\MyFirstApp\obj\Debug\MyFirstApp.xml
+C:\School\Visual Basic\MyFirstApp\obj\Debug\MyFirstApp.pdb

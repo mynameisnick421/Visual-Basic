@@ -1,0 +1,11 @@
+C:\School\Visual Basic\cakes\bin\Debug\cakes.exe.config
+C:\School\Visual Basic\cakes\bin\Debug\cakes.exe
+C:\School\Visual Basic\cakes\bin\Debug\cakes.pdb
+C:\School\Visual Basic\cakes\bin\Debug\cakes.xml
+C:\School\Visual Basic\cakes\obj\Debug\cakes.vbprojAssemblyReference.cache
+C:\School\Visual Basic\cakes\obj\Debug\cakes.Resources.resources
+C:\School\Visual Basic\cakes\obj\Debug\cakes.vbproj.GenerateResource.cache
+C:\School\Visual Basic\cakes\obj\Debug\cakes.exe
+C:\School\Visual Basic\cakes\obj\Debug\cakes.xml
+C:\School\Visual Basic\cakes\obj\Debug\cakes.pdb
+C:\School\Visual Basic\cakes\obj\Debug\cakes.frmOne.resources

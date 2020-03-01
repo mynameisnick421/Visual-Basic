@@ -1,0 +1,11 @@
+C:\School\Visual Basic\ImportantInfo\bin\Debug\ImportantInfo.exe.config
+C:\School\Visual Basic\ImportantInfo\bin\Debug\ImportantInfo.exe
+C:\School\Visual Basic\ImportantInfo\bin\Debug\ImportantInfo.pdb
+C:\School\Visual Basic\ImportantInfo\bin\Debug\ImportantInfo.xml
+C:\School\Visual Basic\ImportantInfo\obj\Debug\Info Project.vbprojAssemblyReference.cache
+C:\School\Visual Basic\ImportantInfo\obj\Debug\ImportantInfo.frmOne.resources
+C:\School\Visual Basic\ImportantInfo\obj\Debug\ImportantInfo.Resources.resources
+C:\School\Visual Basic\ImportantInfo\obj\Debug\Info Project.vbproj.GenerateResource.cache
+C:\School\Visual Basic\ImportantInfo\obj\Debug\ImportantInfo.exe
+C:\School\Visual Basic\ImportantInfo\obj\Debug\ImportantInfo.xml
+C:\School\Visual Basic\ImportantInfo\obj\Debug\ImportantInfo.pdb
